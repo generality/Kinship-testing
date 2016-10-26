@@ -8,7 +8,7 @@ PERL scripts for kinship testing by SNPs and/or STRs based on likelihood ratio (
 Based on genotypes of autosomal SNPs and/or STRs from real cases or simulated pedigrees, LR for kinship testing was calculated by Elston-Stewart algorithm [1]. For a person within a given pedigree, the model compared likelihood values (L) based on genotypes of autosomal markers (G) of two alternative hypothesis: H0, the test person was the specific member in the relationship pedigree, and H1, the test person was unrelated. Namely, LR = L(G|H0)/L(G|H1), and log10(LR) at each loci can be added for unlinked markers. For STRs and SNPs, two distinct scripts were used.
 
 ##For STRs
-Allele frequencies were collected from Bingbing Xie's data for Chinese population [2]. The stepwise STR mutation model of Brenner’s method was used [3], and locus-dependent one-step paternal mutation rates of STRs except D19S433 were obtained from the STRBase [4] and the American Association of Blood Banks [5]. For D19S433, a median rate of 0.0017 per trio was applied.
+Allele frequencies were collected from Xiuyan Ruan's data for Chinese population [2]. The stepwise STR mutation model of Brenner’s method was used [3], and locus-dependent one-step paternal mutation rates of STRs except D19S433 were obtained from the STRBase [4] and the American Association of Blood Banks [5]. For D19S433, a median rate of 0.0017 per trio was applied.
 
 ##For SNPs
 Allele frequencies were collected from variant data of the East Asia (EAS) continental population in the 1000 Genome Project [6], and a mutation rate of 1.2×10-8 per bp per generation was used [7].
@@ -27,7 +27,7 @@ The fixation index, F_RT, measures the variance of allele frequencies between co
 #Reference
 [1] Elston R C, Stewart J F. A General Model for the Genetic Analysis of Pedigree Data[J]. Human Heredity, 1971, 21(6): 523-542.
 
-[2] Xie B, Chen L, Yang Y, et al. Genetic distribution of 39 STR loci in 1027 unrelated Han individuals from Northern China[J]. Forensic Science International-genetics, 2015: 205-206.
+[2] Xiuyan R, Weini W, Yaran Y, et al. Genetic variability and phylogenetic analysis of 39 short tandem repeat loci in Beijing Han population[J]. Hereditas, 2015, 37(7): 683-691.
 
 [3] http://dna-view.com/mufeatur.htm
 
