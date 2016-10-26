@@ -26,10 +26,16 @@ The fixation index, F_RT, measures the variance of allele frequencies between co
 
 #Reference
 [1] Elston R C, Stewart J F. A General Model for the Genetic Analysis of Pedigree Data[J]. Human Heredity, 1971, 21(6): 523-542.
+
 [2] Xie B, Chen L, Yang Y, et al. Genetic distribution of 39 STR loci in 1027 unrelated Han individuals from Northern China[J]. Forensic Science International-genetics, 2015: 205-206.
+
 [3] http://dna-view.com/mufeatur.htm
+
 [4] http://www.cstl.nist.gov/strbase/
+
 [5] http://www.aabb.org
+
 [6] The 1000 Genomes Project Consortium, A global reference for human genetic variation, Nature. 526 (2015) 68–74.
+
 [7] Scally A, Durbin R. Revising the human mutation rate: implications for understanding human evolution[J]. Nature Reviews Genetics, 2012, 13(10): 745-753.
 
